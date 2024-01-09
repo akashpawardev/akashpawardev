@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akash Pawar</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpawar44&label=Profile%20views&color=0e75b6&style=flat" alt="akashpawar44" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpawardev&label=Profile%20views&color=0e75b6&style=flat" alt="akashpawardev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashpawar44&theme=onedark" alt="akashpawar44" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashpawardev&theme=onedark" alt="akashpawardev" /></a> </p>
 
 
-- 🔭 I’m currently working on [Project](https://github.com/akashpawar44?tab=repositories)  
+- 🔭 I’m currently working on [Project](https://github.com/akashpawardev?tab=repositories)  
   
 
 - 🌱 I’m currently learning React and Dsa   
@@ -75,7 +75,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/akashpawar44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akashpawar44" height="30" width="40" /></a>
+<a href="https://github.com/akashpawardev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akashpawardev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akashpawar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashpawar23" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.akki_1604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.akki_1604" height="30" width="40" /></a>
 </p>
@@ -85,7 +85,7 @@
   
 
 ## Github Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawar44&show_icons=true&locale=en&layout=compact" alt="akashpawar44" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawardev&show_icons=true&locale=en&layout=compact" alt="akashpawardev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashpawar44&show_icons=true&locale=en" alt="akashpawar44" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashpawardev&show_icons=true&locale=en" alt="akashpawardev" /></p>
 
